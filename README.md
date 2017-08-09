@@ -1,3 +1,4 @@
 # Rails API with Active Model Serializers Gem
 
-You have to create database by yourself to run this web app.
+This project base on [tutorial](https://blog.engineyard.com/2015/active-model-serializers)
+*You have to create database by yourself to run this web app.*
